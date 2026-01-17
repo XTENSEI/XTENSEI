@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/AOSP-00FFAA?style=for-the-badge&logo=android&logoColor=black" />
   <img src="https://img.shields.io/badge/ROM+Porting-FF6B6B?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Custom+Roms-9C27B0?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CustomRoms-9C27B0?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
